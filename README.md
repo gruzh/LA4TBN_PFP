@@ -5,10 +5,10 @@ This repository contains the official code for the paper [A Learning Algorithm f
 Authors: 
 [Gonzalo A. Ruz](https://scholar.google.cl/citations?user=jkovdhYAAAAJ&hl=en)<sup>1,2,3,4</sup>, &nbsp;
 
-<sup>a</sup> Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Santiago, Chile. <br>
-<sup>b</sup> Millennium Nucleus for Social Data Science (SODAS), Santiago, Chile. <br>
-<sup>c</sup> Millennium Nucleus in Data Science for Plant Resilience (PhytoLearning), Santiago, Chile. <br>
-<sup>d</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
+<sup>1</sup> Facultad de Ingeniería y Ciencias, Universidad Adolfo Ibáñez, Santiago, Chile. <br>
+<sup>2</sup> Millennium Nucleus for Social Data Science (SODAS), Santiago, Chile. <br>
+<sup>3</sup> Millennium Nucleus in Data Science for Plant Resilience (PhytoLearning), Santiago, Chile. <br>
+<sup>4</sup> Center of Applied Ecology and Sustainability (CAPES), Santiago, Chile. <br>
 
 ## Setup
 
